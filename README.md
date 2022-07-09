@@ -14,7 +14,7 @@
     ![P3](https://github.com/yininghsu10/Project01/blob/main/%E6%88%AA%E5%9C%96/p3.png)</br>
   ●步驟四：資料視覺化</br>
     使用工具：Tableau</br>
-    ![P4](https://github.com/yininghsu10/Project01/blob/main/%E6%88%AA%E5%9C%96/p3.png)</br>
+    ![P4](https://github.com/yininghsu10/Project01/blob/main/%E6%88%AA%E5%9C%96/p4.png)</br>
   
   
 ### 三、消費者輪廓描述</br>
@@ -28,7 +28,7 @@
   ●女性族群：</br>
     (1)產業交易金額前三名：百貨>文康育樂>食</br>
     (2)分析女性消費者在各產業別中，消費金額最高年齡層分布，得出主力消費年齡層為：40-45歲  </br>
-    ![P6](https://github.com/yininghsu10/Project01/blob/main/%E6%88%AA%E5%9C%96/p5.png)</br>
+    ![P6](https://github.com/yininghsu10/Project01/blob/main/%E6%88%AA%E5%9C%96/p6.png)</br>
   
   ●男性族群：</br>
     (1)產業交易金額前三名：食>行>百貨</br>
