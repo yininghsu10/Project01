@@ -6,7 +6,7 @@
 ### 二、分析流程</br>
   ●步驟一：資料來源</br>
     ![P1](https://github.com/yininghsu10/Project01/blob/main/%E6%88%AA%E5%9C%96/p1.png)</br>
-  ●步驟二：資料蒐集</br>
+  ●步驟二：資料蒐集(政府資料開放平臺)</br>
     使用工具：Excel</br>
     ![P2](https://github.com/yininghsu10/Project01/blob/main/%E6%88%AA%E5%9C%96/p2.png)</br>
   ●步驟三：資料清洗</br>
