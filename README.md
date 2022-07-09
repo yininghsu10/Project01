@@ -36,7 +36,7 @@
     ![P7](https://github.com/yininghsu10/Project01/blob/main/%E6%88%AA%E5%9C%96/p7.png)</br>
   
 ### 四、BI商業智慧</br>
-  最具顯著效益之行銷推廣組合</br>
+  ●最具顯著效益之行銷推廣組合</br>
   (1)女性受眾：針對「40-45歲」女性提高「百貨」的優惠</br>
   ![P8](https://github.com/yininghsu10/Project01/blob/main/%E6%88%AA%E5%9C%96/p8.png)</br>
   (2)男性受眾：針對「35-40歲」男性提高「食」的優惠</br>
