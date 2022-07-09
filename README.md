@@ -4,7 +4,7 @@
 ### 一、研究動機</br>
 希望藉由大數據分析來協助信用卡行銷，能夠協助發卡銀行更精確的評估受眾、更及時的調整信用卡優惠，並能夠更客觀的預測未來趨勢。</br>
 ### 二、分析流程</br>
-  ●步驟一：資料來源[政府資料開放平臺](https://data.gov.tw/datasets/search?p=1&size=10&rft=%E6%B6%88%E8%B2%BB%E6%A8%A3%E6%85%8B)</br>
+  ●步驟一：資料來源：[政府資料開放平臺](https://data.gov.tw/datasets/search?p=1&size=10&rft=%E6%B6%88%E8%B2%BB%E6%A8%A3%E6%85%8B)</br>
     ![P1](https://github.com/yininghsu10/Project01/blob/main/%E6%88%AA%E5%9C%96/p1.png)</br>
   ●步驟二：資料蒐集</br>
     使用工具：Excel</br>
